@@ -1,0 +1,20 @@
+{
+  "slack_web_hook_url": "https://hooks.slack.com/services/<your>/<slack>/<endpoint>",
+  "channels": {
+    "jira_name": "#slack-channel",
+    "evalphobia": "#xxx-takuma"
+  },
+  "account_map": {
+    "jira_name": "@slack_name",
+    "evalphobia": "takuma"
+  },
+  "icon_map": {
+    "jira_name": ":baby:",
+    "evalphobia": [":walking:", ":dancer:", ":bell:"]
+  },
+  "icons": [
+    ":smile:",
+    ":v:",
+    ":pray:"
+  ]
+}
