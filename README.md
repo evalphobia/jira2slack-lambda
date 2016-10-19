@@ -3,6 +3,8 @@ jira2slack-lambda
 
 The lambda function to send JIRA event message to Slack.
 
+![description image](https://raw.github.com/wiki/evalphobia/jira2slack-lambda/images/jira-slack.png)
+
 ## Setting
 
 - Slack
