@@ -8,6 +8,12 @@
     "jira_name": "@slack_name",
     "evalphobia": "takuma"
   },
+  "valid_status": {
+    "To Do": false,
+    "Done": true
+  },
+  "enable_created": true,
+  "enable_updated": true,
   "icon_map": {
     "jira_name": ":baby:",
     "evalphobia": [":walking:", ":dancer:", ":bell:"]
